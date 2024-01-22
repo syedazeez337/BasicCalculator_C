@@ -3,16 +3,17 @@
 
 void welcomeMsg()
 {
-    printf("\n\t***************************************************\n");
+    printf("\n\t*****************************************************\n");
     printf("\t**     Calculator Programme                        **\n");
     printf("\t** Format: number operator number                  **\n");
     printf("\t** Operations: + for Addition                      **\n");
     printf("\t**             - for Subtraction                   **\n");
     printf("\t**             * for Multiplication                **\n");
     printf("\t**             / for division                      **\n");
-    printf("\t**             @ for exponential                  **\n");
+    printf("\t**             @ for exponential                   **\n");
     printf("\t** Example : for addition 3 + 4                    **\n");
     printf("\t**           for power 4 @ 2                       **\n");
+    printf("\t*****************************************************\n");
     printf("\n\n");
 }
 
